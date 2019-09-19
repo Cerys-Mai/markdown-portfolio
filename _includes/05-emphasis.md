@@ -1,4 +1,4 @@
 **Favourite colours**
-- purple
-- pink
-- light blue
+- Purple
+- Pink
+- Light blue
